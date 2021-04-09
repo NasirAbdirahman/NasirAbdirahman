@@ -1,6 +1,6 @@
 ### Nasir @NasirAbdirahman
-Hi 👋🏾 <br>
-Steadily trying to build cool stuff
+Hi 👋🏾 I am Nasir<br>
+I'm currently 'trying' to build cool stuff
 
 ### I am..
 
