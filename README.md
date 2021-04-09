@@ -1,4 +1,4 @@
-###  I am Nasir
+### Nasir @NasirAbdirahman
 Hey 👋🏾 
 
 ### I am..
@@ -16,5 +16,5 @@ Ensuring my body does not atrophy from all this sitting
 
 
 ### Contact Me
-[Abdul nasir Abdirahman](mailto:nasir.a.abdirahman@outlook.com)
+[Email](mailto:nasir.a.abdirahman@outlook.com)
 
