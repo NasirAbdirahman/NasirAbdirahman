@@ -1,16 +1,20 @@
-### Hi there 👋
+###  I am Nasir
+Hey 👋🏾 
 
-<!--
-**NasirAbdirahman/NasirAbdirahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am..
 
-Here are some ideas to get you started:
+An Entreprenuer--Working on my projects 💻
+A Student--Finishing a Full Stack Bootcamp 👨🏾‍🎓
+A Mental Health Advocate--Donating my Time & Energy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Working On
+
+Searching for Open Souce projects that entice me
+Seeking my next oppurtunity
+Ensuring my body does not atrophy from all this sitting
+
+
+### Contact Me
+[Abdul nasir Abdirahman](mailto:nasir.a.abdirahman@outlook.com)
+
