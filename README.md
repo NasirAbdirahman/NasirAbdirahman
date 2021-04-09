@@ -25,4 +25,4 @@ I'm currently 'trying' to build cool stuff
 
 
 ### Contact Me
-[Email Me](mailto:nasir.a.abdirahman@outlook.com)
+[Email](mailto:nasir.a.abdirahman@outlook.com)
