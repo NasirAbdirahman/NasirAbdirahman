@@ -8,14 +8,18 @@ I'm currently 'trying' to build cool stuff
 • A Mental Health Advocate--Donating my Time & Energy<br>
 
 
-### Working On
+
+### Currently..
 • Searching for Open Souce projects that entice me<br>
 • Seeking my next oppurtunity<br>
-• Ensuring my body does not atrophy from all this sitting<br>
+• Ensuring my body does not atrophy from all this sitting 💪🏾<br>
+
 
 
 ### Actively Hiring Mentors
 • Please forward your resume 
+
+
 
 ### Contact Me
 [Email](mailto:nasir.a.abdirahman@outlook.com)
