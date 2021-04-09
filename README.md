@@ -3,7 +3,7 @@ Hey 👋🏾
 
 ### I am..
 
-##An Entreprenuer--Working on my projects 💻
+##An Entreprenuer--Working on my projects 💻<br>
 A Student--Finishing a Full Stack Bootcamp 👨🏾‍🎓
 A Mental Health Advocate--Donating my Time & Energy
 
