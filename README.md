@@ -1,6 +1,6 @@
 ### Nasir @NasirAbdirahman
 Hi 👋🏾 I am Nasir<br>
-I'm currently 'trying' to build cool stuff
+Currently 'trying' to build useful things
 
 ### I am...
 • An Entrepreneur--Working on my projects 💻<br>
