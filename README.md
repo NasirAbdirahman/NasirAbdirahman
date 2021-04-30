@@ -8,20 +8,10 @@ Currently 'trying' to build useful things
 • A Mental Health Advocate--Donating my Time & Energy 🧠<br>
 
 
-
-
 ### Currently...
 • Searching for Open Souce projects that entice me 🤤<br>
 • Seeking my next oppurtunity 🕵🏾‍♂️<br>
 • Ensuring my body does not atrophy from all this sitting 💪🏾<br>
-
-
-
-
-### Actively Hiring Mentors
-• Please forward your resume 
-
-
 
 
 ### Contact Me
