@@ -9,7 +9,7 @@ Currently 'trying' to build useful things
 
 
 ### Currently...
-• Searching for Open Souce projects that entice me 🤤<br>
+• Searching for Open Souce projects that entice me <br>
 • Seeking my next oppurtunity 🕵🏾‍♂️<br>
 • Ensuring my body does not atrophy from all this sitting 💪🏾<br>
 
