@@ -3,8 +3,8 @@ Hi 👋🏾 I'm Nasir<br>
 
 
 ### I am...
-• An Entrepreneur<br>
 • A Full-Stack Software Engineer<br>
+• An Entrepreneur<br>
 • A Mental Health Advocate<br>
 
 
