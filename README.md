@@ -1,9 +1,9 @@
+&nbsp;&nbsp;![Thinking](https://user-images.githubusercontent.com/73849492/132140519-f9b8dad4-3a49-4019-9ca7-5358cb3a07a3.png)
 
-![Thinking](https://user-images.githubusercontent.com/73849492/132140519-f9b8dad4-3a49-4019-9ca7-5358cb3a07a3.png)
+<h1>Nasir Abdirahman/>
 
 
-
-### I am Nasir Abdirahman. I am a Full-Stack Software Engineer, and Entrepreneur
+### I am a Full-Stack Software Engineer, and Entrepreneur.
 
 
 ### Tech Stack
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt='React'> 
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt='React Native'>
   <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass" alt='Sass'>
-  <img src="https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=white" alt='Bootstrap'>  
+  <img src="https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=563D7C" alt='Bootstrap'>  
   <img src="https://img.shields.io/badge/styled--components-black?style=flat-squaree&logo=styled-components&logoColor=DB7093" alt='Styled Components'>  
   <img src="https://img.shields.io/badge/Material--UI-black?style=flat-square&logo=material-ui&logoColor=0081CB" alt='Material UI'>  
   <img src="https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=593D88" alt='Redux'> 
