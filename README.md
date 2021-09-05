@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt='vs code'> 
 </div>
 
-### Contact Me
+### Find Me Here
 <a href="https://www.nasirabdirahman.com/"><img src="https://img.shields.io/badge/-nasirabdirahman.com-321b8d?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/abdul-nasir-abdirahman/"><img src="https://img.shields.io/badge/-Nasir%20Abdirahman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:nasir.a.abdirahman@gmail.com"><img src="https://img.shields.io/badge/-nasir.a.abdirahman@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
