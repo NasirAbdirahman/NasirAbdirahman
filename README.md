@@ -7,13 +7,12 @@
 
 ### Technology Stack
 <div style='display: flex; align-content: center'>
-  Languages<br>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt='Javascript'> 
   <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5" alt='Html'> 
   <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3" alt='Css'> 
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt='Nodejs'> 
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt='React'> 
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt='React Native'>
+  <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react&logoColor=61DAFB" alt='React Native'>
   <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass" alt='Sass'>
   <img src="https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=563D7C" alt='Bootstrap'>  
   <img src="https://img.shields.io/badge/styled--components-black?style=flat-squaree&logo=styled-components&logoColor=DB7093" alt='Styled Components'>  
@@ -21,7 +20,7 @@
   <img src="https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=593D88" alt='Redux'> 
   <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express&logoColor=white" alt='Express JS'> 
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt='github'> 
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt='vs code'> 
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt='vs code'> 
 </div>
 
 ### Find Me Here
