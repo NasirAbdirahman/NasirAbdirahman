@@ -16,9 +16,9 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt='React Native'>
   <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass" alt='Sass'>
   <img src="https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=white" alt='Bootstrap'>  
-  <img src="https://img.shields.io/badge/styled--components-black?style=flat-squaree&logo=styled-components&logoColor=white" alt='Styled Components'>  
-  <img src="https://img.shields.io/badge/Material--UI-black?style=flat-square&logo=material-ui&logoColor=white" alt='Material UI'>  
-  <img src="https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=white" alt='Redux'> 
+  <img src="https://img.shields.io/badge/styled--components-black?style=flat-squaree&logo=styled-components&logoColor=DB7093" alt='Styled Components'>  
+  <img src="https://img.shields.io/badge/Material--UI-black?style=flat-square&logo=material-ui&logoColor=0081CB" alt='Material UI'>  
+  <img src="https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=593D88" alt='Redux'> 
   <img src="https://img.shields.io/badge/Express.js-black?style=flat-square" alt='Express JS'> 
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt='github'> 
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt='vs code'> 
