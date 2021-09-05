@@ -1,10 +1,9 @@
 
 
-<img src="https://github.com/NasirAbdirahman/personal-site/blob/master/public/favicon.ico" width='100' align="center"><h1>HI'm Nasir</h1>
+<img src="https://github.com/NasirAbdirahman/personal-site/blob/master/public/favicon.ico" width='150' align="right"><h1>Hi I'm Nasir</h1>
 
 
 ### I am a Full-Stack Software Engineer, and Entrepreneur.
-
 
 ### Tech Stack
 <div style='display: flex; align-content: center'>
@@ -24,10 +23,6 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt='vs code'> 
 </div>
 
-### Currently...
-• Seeking my next oppurtunity 🕵🏾‍♂️<br>
-• Working on my projects 💻<br>
-• Ensuring my body does not atrophy from all this sitting 💪🏾<br>
 
 ### Contact Me
 <a href="https://www.nasirabdirahman.com/"><img src="https://img.shields.io/badge/-nasirabdirahman.com-321b8d?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
