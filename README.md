@@ -7,7 +7,7 @@
 
 ### Technology Stack
 <div style='display: flex; align-content: center'>
-  Languages
+  Languages<br>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt='Javascript'> 
   <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5" alt='Html'> 
   <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3" alt='Css'> 
