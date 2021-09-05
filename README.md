@@ -1,4 +1,4 @@
-&nbsp;&nbsp;![Thinking](https://user-images.githubusercontent.com/73849492/132140519-f9b8dad4-3a49-4019-9ca7-5358cb3a07a3.png)
+<div>&nbsp;&nbsp;</div>![Thinking](https://user-images.githubusercontent.com/73849492/132140519-f9b8dad4-3a49-4019-9ca7-5358cb3a07a3.png)
 
 <h2>Nasir Abdirahman<h2/>
 
