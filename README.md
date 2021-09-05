@@ -1,7 +1,6 @@
 
-![Thinking](https://user-images.githubusercontent.com/73849492/132140519-f9b8dad4-3a49-4019-9ca7-5358cb3a07a3.png)
 
-<h2>Nasir Abdirahman<h2/>
+<img src="https://github.com/NasirAbdirahman/personal-site/blob/master/public/favicon.ico" width='40' align="center"><h2>Hey there! I'm Nasir</h2>
 
 
 ### I am a Full-Stack Software Engineer, and Entrepreneur.
