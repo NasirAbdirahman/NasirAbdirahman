@@ -1,4 +1,4 @@
-<div style='display: flex; align-content: center; size=25em'>
+<div style='display: flex; align-content: center'>
  ![Thinking](https://user-images.githubusercontent.com/73849492/132139248-fc694743-83bc-447d-8cc1-c8e8319e7c5e.png)"
 </div>
 
