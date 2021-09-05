@@ -1,6 +1,7 @@
 <div style='display: flex; align-content: center'>
- <img style='size:25em'src="https://user-images.githubusercontent.com/73849492/132139248-fc694743-83bc-447d-8cc1-c8e8319e7c5e.png)"/>
+![Thinking](https://user-images.githubusercontent.com/73849492/132140519-f9b8dad4-3a49-4019-9ca7-5358cb3a07a3.png)
 </div>
+
 
 ### I am Nasir Abdirahman. I am a Full-Stack Software Engineer, and Entrepreneur
 
