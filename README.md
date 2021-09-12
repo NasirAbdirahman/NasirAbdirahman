@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/NasirAbdirahman/assets/blob/master/peace.png" width='150' align="right"><h1>Hey! I'm Nasir</h1>
+<img src="https://github.com/NasirAbdirahman/assets/blob/master/peace.png" width='150' align="right"><h1>Hey! I'm Nasir </h1>
 
 
 ### I am a Full-Stack Software Engineer, and mildly-successful Entrepreneur.
