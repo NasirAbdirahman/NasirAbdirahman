@@ -4,6 +4,7 @@
 
 
 ### I am a Full-Stack Software Engineer and mildly-successful Entrepreneur.
+### I like to build systems that help others, solve problems for the disenfranchised and join others who fight for the same causes. If this is you too, Lets CONNECT!
 
 ### Technology Stack
 <div style='display: flex; align-content: center'>
@@ -24,6 +25,12 @@
 </div>
 
 ### Find Me Here
-<a href="https://www.nasirabdirahman.com/" target="_blank"><img src="https://img.shields.io/badge/-nasirabdirahman.com-321b8d?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abdul-nasir-abdirahman/" target="_blank"><img src="https://img.shields.io/badge/-Nasir%20Abdirahman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nasir.a.abdirahman@gmail.com" target="_blank"><img src="https://img.shields.io/badge/nasirabdirahman@gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.nasirabdirahman.com/">
+  <img src="https://img.shields.io/badge/-nasirabdirahman.com-321b8d?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/abdul-nasir-abdirahman/">
+  <img src="https://img.shields.io/badge/-Nasir%20Abdirahman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:nasir.a.abdirahman@gmail.com">
+  <img src="https://img.shields.io/badge/nasirabdirahman@gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
