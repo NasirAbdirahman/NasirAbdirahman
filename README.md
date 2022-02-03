@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react&logoColor=61DAFB" alt='React Native'>
   <img src="https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=563D7C" alt='Bootstrap'>  
   <img src="https://img.shields.io/badge/styled--components-black?style=flat-squaree&logo=styled-components&logoColor=DB7093" alt='Styled Components'>  
-  <img src="https://img.shields.io/badge/Material--UI-black?style=for-the-badge&logo=material-ui&logoColor=white" alt='Material UI'>  
+  <img src="https://img.shields.io/badge/Material--UI-black?style=flat-for-the-badge&logo=material-ui&logoColor=white" alt='Material UI'>  
   <img src="https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=593D88" alt='Redux'> 
 </p>
 
@@ -54,11 +54,11 @@
 
 ## Find Me Here
 <a href="https://www.nasirabdirahman.com/">
-  <img src="https://img.shields.io/badge/-nasirabdirahman.com-321b8d?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-nasirabdirahman.com-321b8d?style=flat-for-the-badge&logo=Google-Chrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/abdul-nasir-abdirahman/">
-  <img src="https://img.shields.io/badge/-Nasir%20Abdirahman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Nasir%20Abdirahman-0077B5?style=flat-for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="mailto:nasir.a.abdirahman@gmail.com">
-  <img src="https://img.shields.io/badge/nasirabdirahman@gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nasirabdirahman@gmail-D14836?style=flat-for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
