@@ -32,9 +32,9 @@
 
 #### Back-End
 <p>
-  <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express&logoColor=white" alt='Express JS'> 
-   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt='Nodejs'> 
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt='Nodejs'> 
+  <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express" alt='Express JS'> 
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb" />
 </p>
 
 
