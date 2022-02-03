@@ -4,7 +4,7 @@
 
 
 ## I am a student, Full-Stack Software Engineer and mildly-successful Entrepreneur.
-  <img src="https://github-readme-stats.vercel.app/api?username=NasirAbdirahman&hide=stars,contribs&theme=blue-green" alt='Javascript'> 
+  <img src="https://github-readme-stats.vercel.app/api?username=NasirAbdirahman&hide=stars,contribs&theme=blue-green&show_icons=true" alt='Javascript'> 
 
 
 ## Technology Stack
