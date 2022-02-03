@@ -13,7 +13,7 @@
 #### Languages
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt='Javascript'> 
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass" alt='Sass'>
