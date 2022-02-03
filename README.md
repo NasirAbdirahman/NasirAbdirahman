@@ -4,7 +4,7 @@
 
 
 ## I am a student, Full-Stack Software Engineer and mildly-successful Entrepreneur.
-  <img src="https://github-readme-stats.vercel.app/api?username=NasirAbdirahman&hide=stars,contribs&theme=blue-green" alt='GitHub Stats' link="https://github.com/anuraghazra/github-readme-stats"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=NasirAbdirahman&hide=stars,contribs&theme=dark" alt='GitHub Stats'> 
 
 
 ## Technology Stack
@@ -35,8 +35,6 @@
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt='Nodejs'> 
   <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express" alt='Express JS'> 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-black?style=flat-for-the-badge&logo=amazon-aws&logoColor=white" />
-
 </p>
 
 
@@ -48,6 +46,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-black?style=flat-for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 </div>
