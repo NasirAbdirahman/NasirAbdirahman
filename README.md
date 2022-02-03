@@ -49,7 +49,7 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Expo SDK" src="https://img.shields.io/badge/-expo-black?style=flat-square&logo=Expo" />
   <img alt="Jest" src="https://img.shields.io/badge/-jest-black?style=flat-square&logo=Jest" />
-   <img alt="Babel" src="https://img.shields.io/badge/-babel-black?style=flat-square&logo=Jest" />
+   <img alt="Babel" src="https://img.shields.io/badge/-babel-black?style=flat-square&logo=Babel" />
 </p>
 
 </div>
