@@ -47,8 +47,8 @@
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-black?style=flat-for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="Expo SDK" src="https://img.shields.io/badge/-expo-black?style=flat-square&logo=expo&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-jest-black?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="Expo SDK" src="https://img.shields.io/badge/-expo-black?style=flat-square&logo=Expo" />
+  <img alt="Jest" src="https://img.shields.io/badge/-jest-black?style=flat-square&logo=Jest" />
 </p>
 
 </div>
