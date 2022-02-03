@@ -34,7 +34,7 @@
 <p>
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt='Nodejs'> 
   <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express" alt='Express JS'> 
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
 </p>
 
 
