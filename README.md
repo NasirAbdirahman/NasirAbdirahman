@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt='Nodejs'> 
   <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express" alt='Express JS'> 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-black?style=flat-for-the-badge&logo=amazon-aws&logoColor=white" />
 
 </p>
 
