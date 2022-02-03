@@ -30,15 +30,16 @@
 </p>
 
 
-#### Back-End
+#### Back-End & Deployment
 <p>
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt='Nodejs'> 
   <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express" alt='Express JS'> 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-black?style=flat-for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 
-#### Tools & Deployment
+#### Developer Tools
 <p>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt='github'> 
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt='vs code'> 
@@ -46,9 +47,9 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-black?style=flat-for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="Expo SDK" src="https://img.shields.io/badge/-expo-black?style=flat-square&logo=Expo" />
-  <img alt="Jest" src="https://img.shields.io/badge/-jest-black?style=flat-square&logo=Jest" />
+  <img alt="Expo SDK" src="https://img.shields.io/badge/-expo?style=flat-square&logo=Expo" />
+  <img alt="Jest" src="https://img.shields.io/badge/-jest?style=flat-square&logo=Jest" />
+   <img alt="Babel" src="https://img.shields.io/badge/-babel?style=flat-square&logo=Jest" />
 </p>
 
 </div>
