@@ -6,7 +6,7 @@
 ### I am a student, Full-Stack Software Engineer and mildly-successful Entrepreneur.
 
 ### Technology Stack
-<div style='display: flex; align-content: center'>
+<div style='display: flex; align-content: center;  text-align: center;'>
 
   #### Languages
 <p>
