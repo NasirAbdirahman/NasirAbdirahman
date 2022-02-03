@@ -3,13 +3,12 @@
 <img src="https://github.com/NasirAbdirahman/assets/blob/master/peace.png" width='150' align="right"><h1>Hey! I'm Nasir </h1>
 
 
-### I am a Full-Stack Software Engineer and mildly-successful Entrepreneur.
-### I like to build systems that help others, solve problems for the disenfranchised and join others who fight for the same causes. If this is you too, Lets CONNECT!
+### I am a student, Full-Stack Software Engineer and mildly-successful Entrepreneur.
 
 ### Technology Stack
 <div style='display: flex; align-content: center'>
 
-#### Languages
+  #### Languages
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt='Javascript'> 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" />
@@ -18,7 +17,7 @@
   <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass" alt='Sass'>
 </p>
 
-#### Front-End
+  #### Front-End
 <p>
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt='React'> 
   <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react&logoColor=61DAFB" alt='React Native'>
@@ -29,7 +28,7 @@
 </p>
 
 
-#### Back-End
+  #### Back-End
 <p>
   <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express&logoColor=white" alt='Express JS'> 
    <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt='Nodejs'> 
@@ -37,7 +36,7 @@
 </p>
 
 
-#### Tools & Deployment
+  #### Tools & Deployment
 <p>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt='github'> 
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt='vs code'> 
