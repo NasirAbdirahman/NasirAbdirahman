@@ -14,7 +14,7 @@
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt='Javascript'> 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
-  <img alt="css3" src="https://img.shields.io/badge/-css3-black?style=flat-square&logo=expo" />
+  <img alt="css3" src="https://img.shields.io/badge/-css3-black?style=flat-square&logo=css3" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass" alt='Sass'>
 </p>
@@ -47,6 +47,8 @@
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-black?style=flat-for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Expo SDK" src="https://img.shields.io/badge/-expo-black?style=flat-square&logo=expo" />
+  <img alt="Jest" src="https://img.shields.io/badge/-jest-black?style=flat-square&logo=jest" />
 </p>
 
 </div>
