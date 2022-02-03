@@ -47,9 +47,9 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack&logoColor=white" />
-  <img alt="Expo SDK" src="https://img.shields.io/badge/-expo?style=flat-square&logo=Expo" />
-  <img alt="Jest" src="https://img.shields.io/badge/-jest?style=flat-square&logo=Jest" />
-   <img alt="Babel" src="https://img.shields.io/badge/-babel?style=flat-square&logo=Jest" />
+  <img alt="Expo SDK" src="https://img.shields.io/badge/-expo-black?style=flat-square&logo=Expo" />
+  <img alt="Jest" src="https://img.shields.io/badge/-jest-black?style=flat-square&logo=Jest" />
+   <img alt="Babel" src="https://img.shields.io/badge/-babel-black?style=flat-square&logo=Jest" />
 </p>
 
 </div>
