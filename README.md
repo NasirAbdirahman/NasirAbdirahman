@@ -10,7 +10,7 @@
 ## Technology Stack
 <div style='display: flex; align-content: center;  text-align: center;'>
 
-  ### Languages
+#### Languages
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt='Javascript'> 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" />
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass" alt='Sass'>
 </p>
 
-  ### Front-End
+#### Front-End
 <p>
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt='React'> 
   <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react&logoColor=61DAFB" alt='React Native'>
@@ -30,7 +30,7 @@
 </p>
 
 
-  ### Back-End
+#### Back-End
 <p>
   <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express&logoColor=white" alt='Express JS'> 
    <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt='Nodejs'> 
@@ -38,7 +38,7 @@
 </p>
 
 
-  #### Tools & Deployment
+#### Tools & Deployment
 <p>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt='github'> 
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt='vs code'> 
@@ -51,7 +51,7 @@
 </div>
 
 
-### Find Me Here
+## Find Me Here
 <a href="https://www.nasirabdirahman.com/">
   <img src="https://img.shields.io/badge/-nasirabdirahman.com-321b8d?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
 </a>
