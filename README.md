@@ -4,8 +4,8 @@
 
 
 ## I am a student, Full-Stack Software Engineer and mildly-successful Entrepreneur.
+  <img src="https://github-readme-stats.vercel.app/api?username={NasirAbdirahman}&theme=blue-green" alt='Javascript'> 
 
-https://github-readme-stats.vercel.app/api?username={NasirAbdirahman}&theme=blue-green
 
 ## Technology Stack
 <div style='display: flex; align-content: center;  text-align: center;'>
