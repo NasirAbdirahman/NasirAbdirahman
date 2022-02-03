@@ -3,7 +3,7 @@
 <img src="https://github.com/NasirAbdirahman/assets/blob/master/peace.png" width='150' align="right"><h1>Hey! I'm Nasir </h1>
 
 
-## I am a student, Full-Stack Software Engineer and mildly-successful Entrepreneur.
+## I am a student, a Software Engineer and mildly-successful Entrepreneur.
   <img src="https://github-readme-stats.vercel.app/api?username=NasirAbdirahman&hide=stars,contribs&theme=dark" alt='GitHub Stats'> 
 
 
