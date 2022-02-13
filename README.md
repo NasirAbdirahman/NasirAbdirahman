@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/styled--components-black?style=flat-squaree&logo=styled-components&logoColor=DB7093" alt='Styled Components'>  
   <img src="https://img.shields.io/badge/Material--UI-black?style=flat-for-the-badge&logo=material-ui&logoColor=white" alt='Material UI'>  
   <img src="https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=593D88" alt='Redux'> 
-</p>
+</p> 
 
 
 #### Back-End & Deployment
