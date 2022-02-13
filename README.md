@@ -4,7 +4,7 @@
 
 
 ## I am a Software Engineer and mildly-successful Entrepreneur.
-  <img src="https://github-readme-stats.vercel.app/api?username=NasirAbdirahman&hide=stars,contribs&theme=dark" alt='GitHub Stats'> 
+
 
 
 ## Technology Stack
