@@ -3,7 +3,8 @@
 <img src="https://github.com/NasirAbdirahman/assets/blob/master/peace.png" width='150' align="right"><h1>Hey! I'm Nasir </h1>
 
 
-## I am a Software Engineer and mildly-successful Entrepreneur.
+## Software Engineer,mildly-successful Entrepreneur and creator.
+Currently accelerating startups & entrepreneurs at <p> <a href="https://www.gener8tor.com">Gener8tor</a></p>.
 
  <img src="https://github-readme-stats.vercel.app/api?username=NasirAbdirahman&count_private=true&hide=stars,contribs&theme=dark" alt='GitHub Stats'> 
 
