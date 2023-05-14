@@ -4,11 +4,11 @@
 
 
 ## Software Engineer, mildly-successful Entrepreneur, and a tech-for-good creator.
-## Currently accelerating startups & entrepreneurs at <a href="https://www.gener8tor.com">Gener8tor</a>.
+## Currently accelerating startups & entrepreneurs at <a href="https://www.gener8tor.com" target="_blank">Gener8tor</a>.
 
  <img src="https://github-readme-stats.vercel.app/api?username=NasirAbdirahman&count_private=true&hide=stars,contribs&theme=dark" alt='GitHub Stats'> 
 
-## Technology Stack
+<!-- ## Technology Stack
 <div style='display: flex; align-content: center;  text-align: center;'>
 
 #### Languages
@@ -65,4 +65,4 @@
 </a>
 <a href="mailto:nasir.a.abdirahman@gmail.com">
   <img src="https://img.shields.io/badge/nasirabdirahman@gmail-D14836?style=flat-for-the-badge&logo=Gmail&logoColor=white"/>
-</a>
+</a> -->
