@@ -1,10 +1,8 @@
 
 
-<img src="https://github.com/NasirAbdirahman/assets/blob/master/peace.png" width='150' align="right"><h1>Hey! I'm Nasir </h1>
-
+<h1>Hey! I'm Nasir </h1>
 
 ## Software Engineer, mildly-successful Entrepreneur, and a tech-for-good creator.
-## Currently accelerating startups & entrepreneurs at <a href="https://www.gener8tor.com" target="_blank">Gener8tor</a>.
 
  <img src="https://github-readme-stats.vercel.app/api?username=NasirAbdirahman&count_private=true&hide=stars,contribs&theme=dark" alt='GitHub Stats'> 
 
