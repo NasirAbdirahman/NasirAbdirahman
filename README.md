@@ -4,7 +4,6 @@
 
 ## Software Engineer, mildly-successful Entrepreneur, and a tech-for-good creator.
 
- <img src="https://github-readme-stats.vercel.app/api?username=NasirAbdirahman&count_private=true&hide=stars,contribs&theme=dark" alt='GitHub Stats'> 
 
 <!-- ## Technology Stack
 <div style='display: flex; align-content: center;  text-align: center;'>
