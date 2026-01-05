@@ -2,9 +2,7 @@
 
 <h1>Hey! I'm Nasir </h1>
 
-## Software Engineer, mildly-successful Entrepreneur, and a tech-for-good creator.
-
-<img src="https://github-readme-stats.vercel.app/api?username=NasirAbdirahman&hide=stars,contribs&theme=dark" alt='GitHub Stats'> 
+## I am a Software Engineer, mildly-successful Entrepreneur, and a tech-for-good creator.
 
 
 <!-- ## Technology Stack
